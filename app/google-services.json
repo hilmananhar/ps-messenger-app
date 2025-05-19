@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613381792009",
+    "firebase_url": "https://ps-chat-app-c3c01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ps-chat-app-c3c01",
+    "storage_bucket": "ps-chat-app-c3c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613381792009:android:a596f7d2790425141373d8",
+        "android_client_info": {
+          "package_name": "com.hma28official.psmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613381792009-sj09qj6176ici6gi4g2jhmftjo2ha33j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRxhixFAbtDWXDYFizlnzEZe80-SxlgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613381792009-sj09qj6176ici6gi4g2jhmftjo2ha33j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
